@@ -1,3 +1,12 @@
+<style>
+p:has(+ ul) {
+  margin-bottom: 0;
+}
+p + ul {
+  margin-top: 0;
+}
+</style>
+
 ## Hi there 👋
 
 I'm a systems design engineering student at the University of Waterloo in Canada. I'm currently based in Jakarta for the FINCAPES project as a socio-economic monitoring intern. 
