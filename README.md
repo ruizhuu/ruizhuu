@@ -10,7 +10,7 @@ I'm currently learning more about:
 - Photography and Videography
 
 
-If you want to chat about anything, please reach out!
+<br>If you want to chat about anything, please reach out!
 
 <!--
 **ruizhuu/ruizhuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
