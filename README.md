@@ -7,7 +7,7 @@ I'm interested in using data science towards economic development or climate cha
 I'm currently learning more about:
 - Cybernetics<br>
 - Political Economy<br>
-- Data pipelines and communication 
+- Data pipelines and visualization 
 
 <br>If you want to chat about anything, please reach out!
 
